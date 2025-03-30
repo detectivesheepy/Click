@@ -1,37 +1,32 @@
 ![Snap! Logo](src/snap_logo_sm.png)
-# Snap<em>!</em> Build Your Own Blocks
+# Click<em>!</em> Mod
 
-[https://snap.berkeley.edu][snap]
+[[https://snap.berkeley.edu](https://click-blocks.vercel.app/snap.html)][click]
 
-**[Try Snap<em>!</em> Now](https://snap.berkeley.edu/snap/)**
+**[Try Click<em>!</em> Now](https://click-blocks.vercel.app/snap.html)**
 
 a visual, blocks based programming language
-inspired by Scratch
+inspired by Scratch and forked from Snap! (http://snap.berkeley.edu/)
 
-written by Jens Mönig and Brian Harvey  
-jens@moenig.org, bh@cs.berkeley.edu
+written by Jens Mönig and Brian Harvey originally and being updated and modded by Lorenzo (DetectiveSheepy) 
+jens@moenig.org, bh@cs.berkeley.edu, farrancelorenzo@gmail.com
 
-## Snap<em>!</em> Community
+## Click<em>!</em> Community
 
-This repository contains the source code for Snap<em>!</em> IDE. If you have
-questions about using Snap<em>!</em>, please check out [the Snap! Forum][forum].
+This repository contains the source code for Click<em>!</em> IDE.
 
-We also maintain an active community at [snap.berkeley.edu][snap],
-where you can save and share your own projects. You can also
-[check out the code][snapcloud], if you're curious.
-
-[snap]: https://snap.berkeley.edu
-[snapcloud]: https://github.com/snap-cloud/snapCloud
-[forum]: https://forum.snap.berkeley.edu
+[snap]: https://click-blocks.vercel.app/snap.html
+[clickcloud]: coming soon ;)
+[forum]: coming soon ;)
 
 ## Security
 
 If you have security concerns, please do not post them publicly.
-Please reach out to us at [contact@snap.berkeley.edu](mailto:contact@snap.berkeley.edu).
+Please reach out to us at [farrancelorenzo@gmail.com](mailto:farrancelorenzo@gmail.com).
 
 ## Documentation
 
-The definitive source of how to use Snap! is the [Snap! Manual](help/SnapManual.pdf).
+The definitive source of how to use Click! is the [Snap! Manual](help/SnapManual.pdf).
 
 * [API.md](docs/API.md) describes the API for modifying the Snap! interface.
 * [Extensions.md](docs/Extensions.md) describes the basic interface for building JavaScript extensions for Snap!
@@ -58,3 +53,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 Want to use Snap! but scared by the open-source license? Get in touch with us,
 we'll make it work.
+
+Click! is a fork of Snap. Liscences above apply to Snap!, but I will keep them there anyways because I don't wanna be sued and don't know how to use it.
